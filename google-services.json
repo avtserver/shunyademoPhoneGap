@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285895186556",
+    "firebase_url": "https://shunya-academy-demo.firebaseio.com",
+    "project_id": "shunya-academy-demo",
+    "storage_bucket": "shunya-academy-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285895186556:android:c731ec32b4cff937cf91f9",
+        "android_client_info": {
+          "package_name": "com.avtutoring.shunyacademy02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285895186556-kh5svcnvud86uu84v1m9b0mmcj54ut80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyUfyFwFt6VE5Qz20wiN_1IbJ2gcNgb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285895186556-kh5svcnvud86uu84v1m9b0mmcj54ut80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
